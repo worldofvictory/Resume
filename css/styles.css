@@ -1,0 +1,247 @@
+body {
+    background: #f6f6fa;
+    padding: 40px;
+    font-family: "Montserrat", sans-serif;
+}
+
+ul,
+ol {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.wrapper {
+    background: #fff;
+    display: flex;
+    flex-direction: row-reverse;
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.main-content {
+    padding-left: 88px;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    padding-right: 40px;
+    box-sizing: border-box;
+}
+
+.sidebar {
+    background: #e0ebfe;
+    padding-top: 40px;
+    padding-bottom: 40px;
+   box-sizing:border-box;
+    /*щоб  сайдбар не розтягувався*/
+    width: 370px;
+    padding-left: 13px;
+    padding-right: 13px;
+}
+
+.sidebar-content {
+    padding-left: 40px;
+    padding-top: 40px;
+    padding-right: 40px;
+    box-sizing: border-box;
+}
+
+.contacts-title {
+    font-weight: 700;
+    font-size: 22px;
+    color: #161d2a;
+    line-height: normal;
+    margin-top: 0;
+    margin-bottom: 8px;
+}
+
+.contacts-type {
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 1.71429;
+    color: #161d2a;
+    margin-right: 8px;
+}
+
+.contacts-link {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.71429;
+    text-decoration: underline;
+    text-decoration-skip-ink: none;
+    color: #2979ff;
+}
+
+.contacts-item {
+    margin-top: 0;
+    margin-bottom: 4px;
+}
+
+.contacts-container {
+    margin-bottom: 40px;
+}
+
+.skills-container {
+    margin-bottom: 40px;
+    margin-top: 0;
+}
+
+.skills-title {
+    font-weight: 700;
+    font-size: 22px;
+    color: #161d2a;
+    margin-bottom: 8px;
+    margin-top: 0;
+}
+
+.skills-list {
+    padding-left: 22px;
+}
+
+.skills-item {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.71429;
+    color: #161d2a;
+}
+
+.developer {
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 1.21429;
+    color: #000;
+    margin-top: 0;
+    margin-bottom: 8px;
+}
+
+.name-developer {
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 1.22222;
+    color: #000;
+    margin-top: 0;
+    margin-bottom: 12px;
+}
+
+.my-info {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.71429;
+    color: #595959;
+}
+
+.main-content {
+    margin-bottom: 40px;
+}
+
+/*projects-style*/
+.projects-title {
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 1.22727;
+    color: #000;
+    margin-top: 0;
+    margin-bottom: 8px;
+}
+
+.my-projects-item {
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 1.71429;
+    color: #000;
+}
+
+.my-projects-list {
+    padding-left: 16px;
+}
+
+.my-project-link {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.71429;
+    text-decoration: underline;
+    text-decoration-skip-ink: none;
+    color: #005fff;
+}
+
+.my-project-tech {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.71429;
+    color: #595959;
+}
+
+.my-projects-container {
+    margin-bottom: 40px;
+}
+
+.work-title {
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 1.22727;
+    color: #000;
+    margin-top: 0;
+    margin-bottom: 8px;
+}
+
+.work-experience {
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 1.25;
+    color: #000;
+    margin-top: 0;
+    margin-bottom: 12px;
+}
+
+.place {
+    color: #6d9bf5;
+}
+
+.date-experience {
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 1.25;
+    color: #a8a8a8;
+    margin-bottom: 8px;
+}
+
+.teg {
+    color: #000;
+}
+
+.work-experience-duties-list {
+    padding-left: 16px;
+}
+
+.work-experience-duties-item {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.71429;
+    color: #595959;
+}
+
+.work-experience-container {
+    margin-bottom: 12px;
+}
+
+.work-container {
+    margin-bottom: 40px;
+}
+
+.education {
+    font-weight: 700;
+    font-size: 22px;
+    color: #000;
+    margin-top: 0;
+    margin-bottom: 8px;
+}
+.leng {
+    color: #000;
+    margin-bottom: 8px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.25;
+}
+image {
+    margin-left: 28px;
+    border-radius: 50vb;
+    
+}
